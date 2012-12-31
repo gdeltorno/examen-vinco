@@ -42,5 +42,6 @@ grails.project.dependency.resolution = {
         runtime ":resources:1.1.5"
 
         build ":tomcat:$grailsVersion"
+        compile ":ws-client:1.0"
     }
 }

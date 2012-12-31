@@ -29,6 +29,9 @@
     <content url="file://$USER_HOME$/.grails/2.0.0/projects/examen-vinco/plugins/webxml-1.4.1">
       <sourceFolder url="file://$USER_HOME$/.grails/2.0.0/projects/examen-vinco/plugins/webxml-1.4.1/src/groovy" isTestSource="false" />
     </content>
+    <content url="file://$USER_HOME$/.grails/2.0.0/projects/examen-vinco/plugins/ws-client-1.0">
+      <sourceFolder url="file://$USER_HOME$/.grails/2.0.0/projects/examen-vinco/plugins/ws-client-1.0/grails-app/services" isTestSource="false" />
+    </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" scope="PROVIDED" name="grails-2.0.0" level="application" />
@@ -36,9 +39,11 @@
       <library name="Grails User Library (examen-vinco-grailsPlugins)">
         <CLASSES>
           <root url="jar://$USER_HOME$/.grails/ivy-cache/antlr/antlr/jars/antlr-2.7.6.jar!/" />
+          <root url="file://$USER_HOME$/.grails/2.0.0/projects/examen-vinco/plugins/ws-client-1.0/lib" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
+        <jarDirectory url="file://$USER_HOME$/.grails/2.0.0/projects/examen-vinco/plugins/ws-client-1.0/lib" recursive="false" />
       </library>
     </orderEntry>
   </component>
