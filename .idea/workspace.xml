@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fa9c6add-62ca-4403-adc7-4332acb48b0d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cxf-2.7.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/javaee-api-6.0.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/groovy/examen/vinco/Temperatura.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/controllers/examen/vinco/TemperaturaController.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/services/examen/vinco/TemperaturaService.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/unit/examen/vinco/TemperaturaServiceTests.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/views/temperatura/index.gsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy" afterPath="$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examen-vinco-grailsPlugins.iml" afterPath="$PROJECT_DIR$/examen-vinco-grailsPlugins.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/stacktrace.log" afterPath="$PROJECT_DIR$/target/stacktrace.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/views/index.gsp" afterPath="$PROJECT_DIR$/grails-app/views/index.gsp" />
     </list>
     <ignored path="examen-vinco.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -31,7 +20,7 @@
     <file path="/TemperaturaService.groovy" changelist="fa9c6add-62ca-4403-adc7-4332acb48b0d" time="1356986742806" ignored="false" />
     <file path="/fragment.java" changelist="fa9c6add-62ca-4403-adc7-4332acb48b0d" time="1356985304715" ignored="false" />
     <file path="/TemperaturaController.groovy" changelist="fa9c6add-62ca-4403-adc7-4332acb48b0d" time="1356987218489" ignored="false" />
-    <file path="/index.gsp" changelist="fa9c6add-62ca-4403-adc7-4332acb48b0d" time="1356987302384" ignored="false" />
+    <file path="/index.gsp" changelist="fa9c6add-62ca-4403-adc7-4332acb48b0d" time="1356987555042" ignored="false" />
     <file path="/Temperatura.groovy" changelist="fa9c6add-62ca-4403-adc7-4332acb48b0d" time="1356987104583" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -104,10 +93,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TemperaturaService.groovy" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="TemperaturaService.groovy" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/grails-app/services/examen/vinco/TemperaturaService.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="0" selection-start="161" selection-end="161" vertical-scroll-proportion="0.14354067">
+            <state line="6" column="0" selection-start="161" selection-end="161" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.gsp" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/grails-app/views/index.gsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="108" column="61" selection-start="2849" selection-end="2849" vertical-scroll-proportion="0.7263682">
               <folding />
             </state>
           </provider>
@@ -204,6 +202,7 @@
         <option value="$PROJECT_DIR$/src/groovy/examen/vinco/Temperatura.groovy" />
         <option value="$PROJECT_DIR$/grails-app/controllers/examen/vinco/TemperaturaController.groovy" />
         <option value="$PROJECT_DIR$/grails-app/views/temperatura/index.gsp" />
+        <option value="$PROJECT_DIR$/grails-app/views/index.gsp" />
       </list>
     </option>
   </component>
@@ -729,7 +728,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/services/examen/vinco/TemperaturaService.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="161" selection-end="161" vertical-scroll-proportion="0.14354067">
+        <state line="6" column="0" selection-start="161" selection-end="161" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/index.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="108" column="61" selection-start="2849" selection-end="2849" vertical-scroll-proportion="0.7263682">
           <folding />
         </state>
       </provider>
